@@ -36,5 +36,5 @@ each step of the algorithm in real time.
 
 ## Connect with me
 - LinkedIn: www.linkedin.com/in/nikhileshmirge
-- LeetCode: leetcode.com/u/nikhilesh_mirge/
+- LeetCode: www.leetcode.com/u/nikhilesh_mirge
 - Email: nikhileshmirge@gmail.com
