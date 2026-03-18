@@ -25,7 +25,7 @@ each step of the algorithm in real time.
 ## My DSA journey
 - Started with the fundamentals — arrays, strings, and linked lists
 - Solved 90+ problems on LeetCode focusing on patterns
-- Currently diving deeper into recursion, backtracking, and hash maps
+- Currently diving deeper into more of DSA
 - Building projects alongside theory to make learning stick
   
 ## Goals
