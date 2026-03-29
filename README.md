@@ -17,9 +17,17 @@ and grounded.
 - Currently learning: DSA
 
 ## Projects
+
+### Puzzle Engine — LinkedIn Puzzle Solvers
+A collection of LinkedIn puzzle solvers built in C++ using recursive backtracking.
+Currently supports Mini Sudoku (6×6) and Queens (n×n). More puzzles coming soon.
+
+`Backtracking` `Recursion` `C++` `OOP`
+
 ### Sudoku Solver — Backtracking Visualizer
 Solves any valid Sudoku board using recursive backtracking and visualizes
 each step of the algorithm in real time.
+
 `Backtracking` `Recursion` `C++`
 
 ## My DSA journey
@@ -27,7 +35,7 @@ each step of the algorithm in real time.
 - Solved 90+ problems on LeetCode focusing on patterns
 - Currently diving deeper into more of DSA
 - Building projects alongside theory to make learning stick
-  
+
 ## Goals
 - Master DSA and become confident in problem solving
 - Build a strong project portfolio reflecting real engineering skills
@@ -35,4 +43,4 @@ each step of the algorithm in real time.
 - Crack placements and start a career as a software developer
 
 ## Connect with me
-- [LinkedIn](www.linkedin.com/in/nikhileshmirge)
+- [LinkedIn](https://www.linkedin.com/in/nikhileshmirge)
